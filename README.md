@@ -6,4 +6,5 @@
 </header>
 <footer>
     <h3>💼 Where to find my other work:</h3>
+    <img alt="YouTube Badge" src="https://img.shields.io/badge/YouTube-transparent?style=for-the-badge&label=soon&color=ff0000">
 </footer>
