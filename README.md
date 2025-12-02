@@ -10,5 +10,6 @@
 <section>
     <h3>💼 Where to find my other work:</h3>
     <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-transparent?style=for-the-badge&label=soon&color=e1306c">
+    <img alt="TikTok Badge" src="https://img.shields.io/badge/TikTok-transparent?style=for-the-badge&label=soon&color=040404">
     <img alt="YouTube Badge" src="https://img.shields.io/badge/YouTube-transparent?style=for-the-badge&label=soon&color=ff0000">
 </section>
