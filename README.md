@@ -5,6 +5,10 @@
     </p>
 </section>
 
+<section>
+    <h2>🛠️ Tech Stack & Tools</h2>
+</section>
+
 <hr>
 
 <section>
