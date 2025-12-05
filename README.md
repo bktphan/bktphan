@@ -6,15 +6,6 @@
 </section>
 
 <section>
-    <h2>🛠️ Tech Stack & Tools</h2>
-    <p align="center">
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js,,react,tailwindcss,bootstrap,,windows,linux,,git,github" />
-        </a>
-    </p>
-</section>
-
-<section>
     <h3>💼 Where to find my other work:</h3>
     <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-transparent?style=for-the-badge&label=soon&color=e1306c">
     <img alt="TikTok Badge" src="https://img.shields.io/badge/TikTok-transparent?style=for-the-badge&label=soon&color=040404">
