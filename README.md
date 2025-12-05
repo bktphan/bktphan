@@ -9,7 +9,7 @@
     <h2>🛠️ Tech Stack & Tools</h2>
     <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js,,react,tailwindcss,bootstrap,,windows,linux,,git" />
+            <img src="https://skillicons.dev/icons?i=html,css,js,,react,tailwindcss,bootstrap,,windows,linux,,git,github" />
         </a>
     </p>
 </section>
