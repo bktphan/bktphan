@@ -5,6 +5,10 @@
     </p>
 </section>
 
+<section align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bktphan&show_icons=true&bg_color=2e2e2e&layout=compact&text_color=ffffff" alt="Most Used Languages" />
+</section>
+
 <section>
     <h3>💼 Where to find my other work:</h3>
     <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-transparent?style=for-the-badge&label=soon&color=e1306c">
