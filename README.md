@@ -6,6 +6,7 @@
 </section>
 
 <section align="center">
+    <img src="https://roadmap.sh/card/wide/692b8efabd486ea4604b3a00?variant=dark" alt="roadmap.sh"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bktphan&show_icons=true&bg_color=2e2e2e&layout=compact&text_color=ffffff" alt="Most Used Languages" />
 </section>
 
