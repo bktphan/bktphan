@@ -5,11 +5,6 @@
     </p>
 </section>
 
-<section align="center">
-    <img src="https://roadmap.sh/card/wide/692b8efabd486ea4604b3a00?variant=dark" alt="roadmap.sh" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bktphan&show_icons=true&bg_color=0D1117&border_color=21262D&layout=compact&text_color=ffffff&title_color=ffffff" alt="Most Used Languages" height="150"/>
-</section>
-
 <section>
     <h3>💼 Where to find my other work:</h3>
     <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-transparent?style=for-the-badge&label=soon&color=e1306c">
